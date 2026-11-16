@@ -1,7 +1,7 @@
 ## Hi there 👋
 # Kopahomes
 
-🏡 **Eco-friendly, affordable homes for Zimbabwe.**
+🏡 **Eco-friendly, affordable homes for every family.**
 
 Family homes and apartments built with renewable energy, water-saving systems and low-carbon materials.
 
