@@ -1,4 +1,4 @@
-**English** | [Português](README.pt.md)
+**English** | [Português](https://github.com/kopahomes/kopahomes/blob/main/README.pt.md)
 
 ## Hi there 👋
 # Kopahomes
