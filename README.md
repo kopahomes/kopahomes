@@ -3,7 +3,7 @@
 
 🏡 **Eco-friendly, affordable homes for every family.**
 
-Family homes and apartments built with renewable energy, water-saving systems and low-carbon materials.
+Family homes and apartments built with renewable energy and low-carbon materials.
 
 - 🌍 **Website** → [kopa.homes](https://kopa.homes)
 - 🏠 **Our Homes** → [kopa.homes/homes](https://kopa.homes/homes)
@@ -16,7 +16,6 @@ Family homes and apartments built with renewable energy, water-saving systems an
 |---|---|
 | Homes | Affordable family homes and apartments |
 | Energy | Solar power and efficient building design |
-| Water | Rainwater harvesting and water-saving fittings |
 | Materials | Locally sourced, low-carbon building materials |
 
 ## Open tech we're exploring
