@@ -26,3 +26,15 @@ Family homes and apartments built with renewable energy and low-carbon materials
 | [Ladybug Tools](https://github.com/ladybug-tools) | Sun, shade and climate analysis for site layouts |
 | [IfcOpenShell](https://github.com/IfcOpenShell/IfcOpenShell) | Open BIM models of our house plans |
 | [QGIS](https://github.com/qgis/QGIS) | Mapping sites and developments |
+
+## Em português
+
+🏡 **Casas ecológicas e acessíveis para cada família.**
+
+Casas familiares e apartamentos construídos com energia renovável e materiais de baixo carbono.
+
+| área | o que é |
+|---|---|
+| Casas | Casas familiares e apartamentos acessíveis |
+| Energia | Energia solar e construção eficiente |
+| Materiais | Materiais de construção locais e de baixo carbono |
